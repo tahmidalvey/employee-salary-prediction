@@ -48,8 +48,7 @@ The final model explained over 94% of salary variation.
 - Use real salary data
 - Try XGBoost
 - Deploy with Streamlit
-## 
-new_employee = pd.DataFrame ({
+## new_employee = pd.DataFrame ({
     "Age": [30],
     "Experience": [5],
     "Education": ["Master"],
